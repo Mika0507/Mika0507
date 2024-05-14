@@ -44,6 +44,6 @@ I am excited for what the future holds in this exciting journey of development a
   * Collaboration and communication. 
 
 ## :fireworks: This is my Portfolio! :fireworks:
-![Captura-de-pantalla-2024-05-14-155904.png](https://i.postimg.cc/sgfJSVJ0/Captura-de-pantalla-2024-05-14-155904.png)
+<a href='https://postimg.cc/jL9NYYmz' target='_blank'><img src='https://i.postimg.cc/jL9NYYmz/Captura-de-pantalla-2024-05-14-155904.png' border='0' width='300' alt='Captura-de-pantalla-2024-05-14-155904'/></a>
 [Link Portfolio](https://portfolio-belen-alonso-peral.vercel.app/)
 
